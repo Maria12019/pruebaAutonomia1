@@ -1,0 +1,39 @@
+{
+  "project_info": {
+    "project_number": "190293809567",
+    "project_id": "movistarchallenge",
+    "storage_bucket": "movistarchallenge.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:190293809567:android:47f40ece6b2b55ae27c5aa",
+        "android_client_info": {
+          "package_name": "udep.poo.luis.pruebaautonomia1"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "190293809567-3prsm5spvrmaei0ahpeb2uklvi4tl4ul.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyC0fU34vNoZXU2TkQQS_-RWfWqkBZfavEw"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "190293809567-3prsm5spvrmaei0ahpeb2uklvi4tl4ul.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
